@@ -20,3 +20,19 @@ A modern, responsive website template tailored for creative agencies. This proje
 - **JavaScript:** Interactivity, dynamic content, and animations.
 
 ## Screenshots
+
+![Home Page](screenshots/Home.png)
+
+<p align="center">Home Page</p><br>
+
+![Services Dashboard](screenshots/Services.png)
+
+<p align="center">Services Page</p><br>
+
+![Work Dashboard](screenshots/Work.png)
+
+<p align="center">Work Page</p>
+
+![Contact Dashboard](screenshots/Contact.png)
+
+<p align="center">NGO Dashboard</p>

@@ -79,7 +79,7 @@ section.home {
     right: 0;
     width: 60px;
     height: 60px;
-    background: #ffff00 url(../images/menu.png);
+    background: #ffff00 url(./images/menu.png);
     background-size: 30px;
     background-position: center;
     background-repeat: no-repeat;
@@ -88,7 +88,7 @@ section.home {
 }
 
 .toggle.active {
-    background: #ffff00 url(../images/close.png);
+    background: #ffff00 url(./images/close.png);
     background-size: 40px;
     background-position: center;
     background-repeat: no-repeat;

@@ -35,4 +35,4 @@ A modern, responsive website template tailored for creative agencies. This proje
 
 ![Contact Dashboard](screenshots/Contact.png)
 
-<p align="center">NGO Dashboard</p>
+<p align="center">Contact Page</p>

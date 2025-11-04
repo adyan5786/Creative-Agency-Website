@@ -7,7 +7,6 @@ A modern, responsive website template tailored for creative agencies. This proje
 - **Home Page:** Attractive and engaging landing section to introduce your agency.
 - **Service Listings:** Clearly presents the range of services offered.
 - **Portfolio Gallery:** Interactive gallery for showcasing previous work.
-- **Testimonials:** Section to display client feedback and reviews.
 - **Contact Form:** Easy-to-use form for client inquiries.
 - **Responsive Design:** Optimized for all devices—desktops, tablets, and smartphones.
 - **User-Friendly Interface:** Minimal and modern design for smooth navigation.
@@ -31,7 +30,7 @@ A modern, responsive website template tailored for creative agencies. This proje
 
 ![Work Dashboard](screenshots/Work.png)
 
-<p align="center">Work Page</p>
+<p align="center">Work Page</p><br>
 
 ![Contact Dashboard](screenshots/Contact.png)
 

@@ -2,6 +2,8 @@
 
 A modern, responsive website template tailored for creative agencies. This project helps agencies showcase their portfolios, highlight services, and connect with potential clients through a visually appealing and interactive web presence.
 
+[Click to view the website](https://adyan5786.github.io/Creative-Agency-Website/templates/index.html)
+
 ## Features
 
 - **Home Page:** Attractive and engaging landing section to introduce your agency.
